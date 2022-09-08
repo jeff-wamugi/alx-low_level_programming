@@ -1,6 +1,6 @@
 /*
  * File: 4-puts.c
- * Auth: Jefferson Tumuti 
+ * Auth: Jefferson Tumuti
  */
 
 #include <stdio.h>
